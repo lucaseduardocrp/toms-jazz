@@ -15,7 +15,7 @@ export default function Footer() {
         <li><a href="">Contato</a></li>
       </ul>
       <form action="">
-        <label htmlFor="">Recebe materiais gratuitos no seu email</label>
+        <label htmlFor="">Receba materiais gratuitos no seu email</label>
         <input type="email" name="email" id="email" />
         <Buttons text='QUERO RECEBER'/>
       </form>

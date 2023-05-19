@@ -20,7 +20,7 @@ export function Header() {
           <li><a href="">Contatos</a></li>
         </ul>
     
-        <Buttons text='SE INSCREVA' />
+        <Buttons className='subscrible' text='SE INSCREVA' />
 
         <div className="mobileMenu" onClick={toggleMode}>
           <MobileMenu />

@@ -81,6 +81,11 @@ export const HeaderContainer = styled.header`
       .mobileMenu{
         display: block;
       }
+
+      .subscrible{
+        width: 13rem;
+        padding: 0.5rem;
+      }
     }
   }
 `;

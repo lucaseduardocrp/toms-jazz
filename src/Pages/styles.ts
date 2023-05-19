@@ -30,7 +30,7 @@ export const Main = styled.main`
         gap: 3rem;
   
         .arrow{
-          width: 20%;
+          width: 40%;
           margin-left: 16rem;
         }
       }
@@ -53,7 +53,7 @@ export const Main = styled.main`
       justify-content: center;
       flex-wrap: wrap;
       gap: 3rem;
-      margin-top: -26rem;
+      margin-top: -12rem;
 
       .alternativeCard{
         background: var(--secundary);
@@ -66,21 +66,23 @@ export const Main = styled.main`
       padding-bottom: 4rem;
   
       >h2{
-        margin-top: 20rem;
+        margin: 20rem 0 4rem 0;
         letter-spacing: 2px;
       }
     }
   }
 
   @media(max-width: 1024px){
-    .cardGrid{
-      margin-top: -6rem;
-    }
-
-    .cursoText{
-      >h2{
-        margin-top: 2rem;
+    .cursosCard{
+      .cardGrid{
+        margin-top: -6rem;
       }
-    }  
+  
+      .cursoText{
+        h2{
+          margin-top: 2rem;
+        }
+      }  
+    }
   }
 `;
