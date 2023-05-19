@@ -4,6 +4,7 @@ import { flexCSS } from '../../styles/GlobalStyles';
 export const HeaderContainer = styled.header`
   width: 100%;
   height: 10vh;
+  padding: 1rem;
   border-bottom: 1px solid var(--black);
 
 

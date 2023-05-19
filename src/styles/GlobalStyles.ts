@@ -29,12 +29,19 @@ export default createGlobalStyle`
     border-color: var(--black);
     border-style: solid;
     border-width: 0 1px 1px 1px;
-    padding: 1rem;
+  }
+
+  section{
+    min-height: 80vh;
   }
 
   *, button, input{
     border: 0;
     background: none;
+  }
+
+  span{
+    color: var(--primary);
   }
 
   a{
@@ -44,14 +51,14 @@ export default createGlobalStyle`
   
   :root{
     --primary: #ED4D1B;
-    --secundary: #009AED;
+    --secundary: #FF9A3C;
     --grey: #BFBFBF;
     --black: #000;
     --white: #ffffff;
 
     --h1-font: 4rem;
     --h2-font: 4.5rem;
-    --h3-font: 4rem;
+    --h3-font: 2.5rem;
     --h4-font: 3rem;
     --p-font: 2rem;
     --sm-font: 1.6rem;
@@ -60,7 +67,7 @@ export default createGlobalStyle`
   @media(max-width: 980px){
     :root{
       --h1-font: 2.5rem;
-      --h2-font: 2rem;
+      --h2-font: 3.5rem;
       --p-font: 1.6rem;
       --sm-font: 1.6rem;
     }
