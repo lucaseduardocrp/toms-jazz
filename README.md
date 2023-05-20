@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img src=".png">
+  <img src="file:///C:/Users/lucas/Downloads/readmeTomsJazz.png">
 </h1>
 
 ## Tipo e Descrição
