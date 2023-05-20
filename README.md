@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="file:///C:/Users/lucas/Downloads/readmeTomsJazz.png">
+  <img src="https://photos.google.com/album/AF1QipOQmRtAinAZGtM1nx138qlm8ofHAQ_lVgau1ZkQ/photo/AF1QipMjyGJBw5hSksS_I7v8u_0iS_4trIxEVFE817yW">
 </h1>
 
 ## Tipo e Descrição
