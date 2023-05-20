@@ -53,7 +53,7 @@ export const Main = styled.main`
       justify-content: center;
       flex-wrap: wrap;
       gap: 3rem;
-      margin-top: -12rem;
+      margin-top: -16rem;
 
       .alternativeCard{
         background: var(--secundary);
