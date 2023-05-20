@@ -53,7 +53,7 @@ export const Main = styled.main`
       justify-content: center;
       flex-wrap: wrap;
       gap: 3rem;
-      margin-top: -16rem;
+      margin-top: -26rem;
 
       .alternativeCard{
         background: var(--secundary);
@@ -84,5 +84,14 @@ export const Main = styled.main`
         }
       }  
     }
+  }
+
+  @media(max-width: 980px){
+    .home{
+      padding-bottom: 10rem;
+      .grid{
+        grid-template-columns: 1fr;
+      }
+    } 
   }
 `;
