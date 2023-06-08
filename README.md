@@ -6,7 +6,7 @@
 
 ## Tipo e Descrição
 
-Site feito para fins de estudo, tecnologias utilizadas:
+Site feito para fins de estudo, as tecnologias utilizadas foram:
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="reactjs" src="https://www.svgrepo.com/show/452092/react.svg">
